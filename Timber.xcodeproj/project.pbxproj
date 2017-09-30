@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		B00592971F77617000510F72 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B00592961F77617000510F72 /* main.cpp */; };
+		B00592971F77617000510F72 /* Murphy_P1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B00592961F77617000510F72 /* Murphy_P1.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		B00592931F77617000510F72 /* Timber */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Timber; sourceTree = BUILT_PRODUCTS_DIR; };
-		B00592961F77617000510F72 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		B00592961F77617000510F72 /* Murphy_P1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Murphy_P1.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		B00592951F77617000510F72 /* Timber */ = {
 			isa = PBXGroup;
 			children = (
-				B00592961F77617000510F72 /* main.cpp */,
+				B00592961F77617000510F72 /* Murphy_P1.cpp */,
 			);
 			path = Timber;
 			sourceTree = "<group>";
@@ -119,7 +119,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B00592971F77617000510F72 /* main.cpp in Sources */,
+				B00592971F77617000510F72 /* Murphy_P1.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
